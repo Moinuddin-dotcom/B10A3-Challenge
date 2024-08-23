@@ -1,0 +1,99 @@
+<div class="bg-white rounded-2xl grid grid-cols-1 md:grid-cols-[55vw_25vw] gap-4">
+    <div class="p-5 grid grid-cols-1 lg:grid-cols-[20vw_27vw] gap-2 border rounded-2xl">
+        <div class="image">
+            <img class="w-[300px] h-[180px]" src="./assets/img1.png" alt="">
+        </div>
+        <div>
+            <h1 class="text-2xl text-gray-800 font-bold">Commercial</h1>
+            <p class="text-base text-gray-500">The barn house captivates with its blend of rustic charm and
+                modern. The barn house
+                captivates with its blend of rustic charm and modern .</p>
+            <h2 class="flex items-center">
+                <span class="text-lg text-gray-800 font-bold">View Details</span><span
+                    class="material-symbols-outlined -rotate-45 bg-[#ABEF5F] text-black rounded-full p-1">
+                    arrow_forward
+                </span>
+            </h2>
+        </div>
+    </div>
+    <div class="p-5 border rounded-2xl sm:hidden lg:inline">
+        <img class="w-[300px] lg:w-[350px] h-[180px]" src="./assets/img2.png" alt="">
+    </div>
+</div>
+<div class="gap h-5"></div>
+<div class="bg-white grid grid-cols-1 md:grid-cols-[20vw_40vw_20vw] gap-4 rounded-2xl">
+    <div class="p-5 border rounded-2xl">
+        <img class="w-[280px]" src="./assets/img5.png" alt="">
+    </div>
+    <div>
+        <div class="p-5 border rounded-2xl lg:flex space-x-2">
+            <img class="w-[300px]" src="./assets/img4.png" alt="">
+            <div>
+                <h1 class="text-2xl text-gray-800 font-bold">Commercial</h1>
+                <p class="text-base text-gray-500">The barn house captivates with its blend of rustic charm
+                    and
+                    modern. The barn house
+                    captivates with its blend of rustic charm and modern .</p>
+                <h2 class="flex items-center">
+                    <span class="text-lg text-gray-800 font-bold">View Details</span><span
+                        class="material-symbols-outlined -rotate-45 bg-[#ABEF5F] text-black rounded-full p-1">
+                        arrow_forward
+                    </span>
+                </h2>
+            </div>
+        </div>
+
+    </div>
+    <div class="p-5 border rounded-2xl justify-self-center">
+        <img class="w-" src="./assets/img3.png" alt="">
+    </div>
+    <div class="p-5 border rounded-2xl justify-self-center w-full sm:hidden">
+        <img class="" src="./assets/img5.png" alt="">
+    </div>
+</div>
+
+
+
+
+
+
+<div class=" grid grid-cols-1 lg:grid-cols-3 gap-4">
+    <div class="bg-white p-5 lg:col-start-1 lg:col-end-3 lg:flex lg:space-x-2 ">
+        <div>
+            <img class="w-[300px] lg:w-[525px] lg:h-[163px]" src="./assets/img1.png" alt="">
+        </div>
+        <div class="pt-5 lg:pt-0">
+            <h1 class="text-gray-700 text-2xl font-bold">Commercial</h1>
+            <p class="text-gray-500 text-base">The barn house captivates with its blend of rustic charm and
+                modern. The barn house captivates
+                with its blend of rustic charm and modern .</p>
+            <a class="text-gray-500" href="">View Details</a><span
+                class="material-symbols-outlined -rotate-45 bg-[#ABEF5F] text-black rounded-full p-1">
+                arrow_forward
+            </span>
+        </div>
+    </div>
+    <div class="bg-white p-4">
+        <img class="lg:w-[300px] lg:h-[170px]" src="./assets/img2.png" alt="">
+    </div>
+    <div class="bg-white p-4">
+        <img class="w-[300px] h-[170px]" src="./assets/img3.png" alt="">
+    </div>
+    <div class="bg-white p-4">
+        <div>
+
+            <img src="./assets/img4.png" alt="">
+        </div>
+            <div>
+            <h1 class="text-gray-700 text-2xl font-bold">Commercial</h1>
+            <p class="text-gray-500 text-base">The barn house captivates with its blend of rustic charm and
+                modern. The barn house captivates
+                with its blend of rustic charm and modern .</p>
+            <a class="text-gray-500" href="">View Details</a><span
+                class="material-symbols-outlined -rotate-45 bg-[#ABEF5F] text-black rounded-full p-1">
+                arrow_forward
+            </span>
+        </div>
+    </div>
+    <div>Moin</div>
+</div>
